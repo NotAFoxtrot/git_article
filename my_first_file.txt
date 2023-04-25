@@ -1,2 +1,4 @@
 Here's another mistake.
-This time, the file will be staged
+This time, the file will be stage
+The file has been comitted.
+
